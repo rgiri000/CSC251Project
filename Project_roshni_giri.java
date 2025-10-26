@@ -68,7 +68,7 @@ public class Project_roshni_giri {
         }
 
         // Display totals
-        System.out.println("The number of policies with a smoker is: " + smokerCount);
-        System.out.println("The number of policies with a non-smoker is: " + nonSmokerCount);
+        System.out.println("The number of policies with a smoker is : " + smokerCount);
+        System.out.println("The number of policies with a non-smoker is : " + nonSmokerCount);
     }
 }
