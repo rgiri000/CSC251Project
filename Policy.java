@@ -4,7 +4,7 @@ public class Policy {
     private String providerName;
     private PolicyHolder policyHolder;   // Aggregation
 
-    private static int policyCount = 0;  // Static field
+    private static int policyCount = 0;  //  Static field
 
     /** Full constructor */
     public Policy(int policyNumber, String providerName, PolicyHolder policyHolder) {
