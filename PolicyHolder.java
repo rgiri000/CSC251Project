@@ -63,7 +63,7 @@ public class PolicyHolder {
         return (weight * 703) / (height * height);
     }
 
-    /** toString method for PolicyHolder info */
+    /** toString method for PolicyHolder info*/
     public String toString() {
         return  "Policyholder's First Name: " + firstName +
                 "\nPolicyholder's Last Name: " + lastName +
