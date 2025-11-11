@@ -48,7 +48,7 @@ public class Policy {
         return price;
     }
 
-    /** toString that also CALLS PolicyHolder toString */
+    /** toString that also CALLS PolicyHolder toString*/
     public String toString() {
         return "Policy Number: " + policyNumber +
                "\nProvider Name: " + providerName +
